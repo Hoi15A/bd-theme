@@ -12,13 +12,19 @@
     transform: none !important;
 }
 
+/* Click down effect */
 .blobContainer-239gwq:active {
-    /* Remove click effect on guild click */
+    /* Guild icon */
     -webkit-backface-visibility: none;
     -webkit-transform: translateY(0px) translateZ(0);
     backface-visibility: none;
     position: relative;
     transform: translateY(0px) translateZ(0);
+}
+
+.da-message .da-avatar {
+    /* Profile picture in messages */
+    transform: translateY(0px) !important;
 }
 
 /* Channel size down*/
