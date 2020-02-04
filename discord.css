@@ -1,0 +1,123 @@
+.da-channelTextArea .da-buttonWrapper { /* bUy NIRTO GIFFFFFZS PLX */
+    display:none;
+}
+
+.da-channel > [href="/library"] {
+    display:none;
+    content:"trash";
+}
+
+.da-app {
+    /* Disable Screen shake */
+    transform: none !important;
+}
+
+.blobContainer-239gwq:active {
+    /* Remove click effect on guild click */
+    -webkit-backface-visibility: none;
+    -webkit-transform: translateY(0px) translateZ(0);
+    backface-visibility: none;
+    position: relative;
+    transform: translateY(0px) translateZ(0);
+}
+
+/* Channel size down*/
+.da-channels .da-wrapper {
+    height: 32px;
+}
+
+
+.da-channels .da-wrapper .da-content .da-icon {
+    height: 18px;
+    width: 18px;
+}
+
+.da-channels .da-clickable .da-icon {
+    top:10px;
+}
+
+.da-iconVisibility .da-icon {
+    /*top:0px;*/
+}
+
+/* Make topbar icons smaller */
+.da-title .da-icon {
+    -webkit-app-region: no-drag;
+    display: block;
+    height: 20px;
+    width: 20px;
+}
+
+.da-iconWrapper {
+    height: 20px;
+}
+
+
+/* Decrease top bar height */
+.container-1r6BKw {
+    height: 40px;
+}
+
+.header-2o-2hj {
+    height: 40px;
+}
+
+.da-searchBar .da-icon {
+    align-self: center;
+}
+
+
+/* Better ping */
+.da-blobContainer .da-wrapper mask rect {
+    display: none;
+}
+
+.da-numberBadge {
+    box-shadow: 0px 0px 5px 2px #18191c;
+}
+
+.da-base {
+    border-radius: 5px;
+}
+
+
+/* VC Connected icon */
+.da-upperBadge .da-iconBadge {
+    box-shadow: 0px 0px 5px 2px #18191c;
+}
+
+.da-upperBadge .da-iconBadge {
+    background-color: #3456d8;
+}
+
+/* VS User limit */
+.da-userLimit .da-wrapper {
+    height: 20px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 9px;
+    box-shadow: 2px 2px 5px 1px #18191c;
+}
+
+/* Dont hide VC limit on hover */
+.da-wrapper:hover .da-userLimit {
+    display: inline;
+    order: -10;
+    margin-right: 3px;
+}
+
+/* Compact friends list */
+.da-friendsRow {
+    height: 56px !important;
+}
+
+/* Remove Active now in friends list */
+.da-nowPlayingColumn {
+    display: none;
+}
+
+/* Hide blocked messages */
+.da-messageGroupBlocked {
+    display:none !important;
+}
