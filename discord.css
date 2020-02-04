@@ -121,3 +121,8 @@
 .da-messageGroupBlocked {
     display:none !important;
 }
+
+/* Disable message background on hover */
+.da-message:hover {
+    background-color: inherit !important;
+}
