@@ -1,3 +1,4 @@
-//META{"name":"Austin's Stuff","description":"Bunch of random tweaks","author":"Austin","version":"3.0"}*//
+/*//META{"name":"Austin's Stuff","description":"Bunch of random tweaks","author":"Austin","version":"3.1", "website":"https://neat.moe", "source":"https://github.com/Hoi15A/bd-theme"}*//**/
 
-@import url(https://www.gitcdn.xyz/repo/Hoi15A/bd-theme/master/discord.css);
+/*Import CSS From Github*/
+@import url('https://hoi15a.github.io/bd-theme/css/discord.css');
