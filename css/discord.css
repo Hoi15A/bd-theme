@@ -124,9 +124,7 @@
 }
 
 /* Hide blocked messages */
-.da-messageGroupBlocked {
-    display:none !important;
-}
+.groupStart-23k01U:not(.message-2qnXI6) { display: none }
 
 /* Disable message background on hover */
 .da-message:hover {
