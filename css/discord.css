@@ -127,3 +127,8 @@
 .da-message:hover {
     background-color: inherit !important;
 }
+
+/* Disable focus ring */
+.da-ring {
+    display:none !important;
+}
